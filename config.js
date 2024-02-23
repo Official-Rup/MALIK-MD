@@ -10,15 +10,15 @@ global.email = 'akk728492@gmail.com'
 global.github = 'https://github.com/arkhan998/MALIK-MD'
 global.location = 'Pakistan'
 global.gurl = 'king-md.db' // add your username
-global.sudo = process.env.SUDO || '923124533358'
-global.devs = '923124533358';
+global.sudo = process.env.SUDO || '918617845264'
+global.devs = '918617845264';
 global.website = 'https://github.com/arkhan998/MALIK-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/dce77f7538019d05afe65.jpg'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "session",
   botname:   process.env.BOT_NAME === undefined ? 'MALIK-BOT' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'arkhan' : process.env.OWNER_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '❛❥༊Rup❤️༆̲̲̲̞̎̎͢༊❥' : process.env.OWNER_NAME,
   author:  process.env.PACK_INFO === undefined ? 'bot' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO === undefined ? 'malik-Md' : process.env.PACK_INFO.split(";")[1],
